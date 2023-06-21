@@ -1,3 +1,4 @@
+// Copyright 2023 Max NG. All Rights Reserved!
 package revint
 
 func reverse(arr []int) (rev []int) {
