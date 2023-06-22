@@ -1,4 +1,4 @@
-#Copyright of Max NG. All Rights Reserved!
+// Copyright of Max NG. All Rights Reserved!
 package reverse
 
 import "fmt"
