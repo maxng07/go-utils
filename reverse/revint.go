@@ -1,5 +1,5 @@
 // Copyright 2023 Max NG. All Rights Reserved!
-package revint
+package reverse
 
 func reverse(arr []int) (rev []int) {
 	a := len(arr)
