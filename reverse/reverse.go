@@ -37,7 +37,7 @@ func ureverse(arr interface{}) *output {
       rev = append(rev, arr[a-i])
     }
     //fmt.Println(rev)
-		return &output{ num: rev}
+    return &output{ num: rev}
 		
   case []string:
     a := len(arr)
@@ -46,7 +46,7 @@ func ureverse(arr interface{}) *output {
       rev = append(rev, arr[a-i])
     }
     //fmt.Println(rev)
-		return &output{ str: rev}
-	}
-	return &output{}
+    return &output{ str: rev}
+    }
+return &output{}
 }
